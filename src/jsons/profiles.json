@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "23 Oct 2003" },
+    {
+      "website": "<a target='blank' href='//'>//</a>"
+    },
+    { "phone": "+63 948-641-9124" },
+    { "address": "Pinayagan Norte, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>jamessabmante@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Ilijan Sur, Tubigon, Bohol, Philippines",
+    "+63 948-641-9214",
+    "<a href='mailto:someone@example.com'>jamessabmante@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021-2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015-2019",
+      "school": "Tubigon West National Highschool",
+      "address": "Ilijan Norte, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008-2015",
+      "school": "Avelino Chagas Elementary School",
+      "address": "Ilijan Norte, Tubigon, Bohol"
+    }
+  ]
+}
